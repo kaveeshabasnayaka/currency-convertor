@@ -3,7 +3,7 @@ Currency Converter A simple React Native application to convert Sri Lankan Rupee
 
 Features
 <ul>
-Input the amount in LKR.
-Convert the entered amount to USD using a predefined conversion rate.
-Display the converted USD amount or an error message for invalid inputs.
+<li>Input the amount in LKR.</li>
+<li>Convert the entered amount to USD using a predefined conversion rate.</li>
+<li>Display the converted USD amount or an error message for invalid inputs.</li>
 </ul>
